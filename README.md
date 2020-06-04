@@ -1,5 +1,4 @@
-## Slite Technical Test
-
+# Slite Technical Test
 The test consist of a simple page extracted from the Slite app that you will need to reproduce in React. Here's the Figma (design) of the page you need to implement:
 https://www.figma.com/file/T0tvBUI22O3EF70pvsrpqC/Developer-test-Demo-app-structure?node-id=0%3A1.
 
@@ -16,10 +15,23 @@ The scope of the test is:
 If you meant that you want for me to create a way to store which pages are or aren't favorites, then I'll do my best. -->
 
 
+## Final notes:
+<!--
+I know the header and favorite icons are still missing, as so is some styling improvement here and there (like the list to the right),
+but I'm also sure I'd be able to do them no problem.
+I was told not to overdo it, but I was certainly having fun by the moment I was running out of time.
+Hope you like the final result!
+Regards,
+Daena Michelle.
+-->
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ Available Scripts
 
 In the project directory, you can run:
 
