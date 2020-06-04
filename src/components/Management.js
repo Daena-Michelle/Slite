@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { Component } from "react";
 
-export default function Management() {
-    return (
-        <div>
+export default class Management extends Component {
+    render() {
+        return (
+            <div>
 
-        </div>
-    )
+            </div>
+        )
+    }
 }

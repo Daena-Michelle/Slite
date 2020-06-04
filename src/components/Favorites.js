@@ -1,9 +1,19 @@
-import React from 'react';
+import React, { Component } from "react";
 
-export default function Favorites() {
-    return (
-        <div>
+export default class Favorites extends Component {
 
-        </div>
-    )
+    constructor(props) {
+        super(props);
+        this.state = {
+            favorites: [],
+        };
+    }
+
+    render() {
+        return (
+            <div>
+
+            </div>
+        )
+    }
 }

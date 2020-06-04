@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { Component } from "react";
 
-export default function Policies() {
-    return (
-        <div>
+export default class Policies extends Component {
+    render() {
+        return (
+            <div>
 
-        </div>
-    )
+            </div>
+        )
+    }
 }

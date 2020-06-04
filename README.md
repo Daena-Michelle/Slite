@@ -12,7 +12,8 @@ The scope of the test is:
 - Use React Router to implement the 4 static pages corresponding to the 4 links in the sidebar (have different content for each page but one needs to have the design on Figma)
 <!-- Done. -->
 - Have a simple state to handle Favorites expand/collapse
-<!--  -->
+<!-- I'm not sure I understood what you meant with this, my Sidebar expansion for favorites works without the need of state handling.
+If you meant that you want for me to create a way to store which pages are or aren't favorites, then I'll do my best. -->
 
 
 
