@@ -1,3 +1,21 @@
+## Slite Technical Test
+
+The test consist of a simple page extracted from the Slite app that you will need to reproduce in React. Here's the Figma (design) of the page you need to implement:
+https://www.figma.com/file/T0tvBUI22O3EF70pvsrpqC/Developer-test-Demo-app-structure?node-id=0%3A1.
+
+The scope of the test is:
+
+- Setup basic React application with Create React App
+<!-- Done. -->
+- Reproduce the design with React components. Use plain CSS, do not waste time setting up CSS-in-JS solutions
+<!-- To ensure the most faithful look I've decided to combine plain CSS with Bootstrap. I'm quicker and most effective with it. -->
+- Use React Router to implement the 4 static pages corresponding to the 4 links in the sidebar (have different content for each page but one needs to have the design on Figma)
+<!-- Done. -->
+- Have a simple state to handle Favorites expand/collapse
+<!--  -->
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
